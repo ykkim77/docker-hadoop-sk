@@ -78,7 +78,7 @@ hdfs dfs -put input.txt /user/hduser
 
 mapper를 다음과 같이 작성한다.
 
-'mapper.py'
+- mapper.py
 
 ```
 #!/root/anaconda3/bin/python
@@ -93,7 +93,7 @@ for line in sys.stdin:
 
 ## 리듀서 작성
 
-'reducer.py'
+- reducer.py
 
 ```
 #!/root/anaconda3/bin/python

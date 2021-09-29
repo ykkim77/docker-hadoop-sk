@@ -137,7 +137,7 @@ hdfs dfs -ls /user/wordcount
 맵리듀스의 결과를 읽어들일수 있다. 
 
 ```
-hdfs dfs -cat /user/worcount/part-00000
+hdfs dfs -cat /user/wordcount/part-00000
 ```
 
 ```

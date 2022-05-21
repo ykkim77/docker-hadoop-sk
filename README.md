@@ -141,10 +141,12 @@ hdfs dfs -cat /user/wordcount/part-00000
 ```
 
 ```
-Cyber   2
-Korea   1
-The     2
-University      1
-of      1
+C&C     2
+Car     3
+Cat     2
+Dog     7
+Job     5
+Korea   3
+SK      2
 ```
 

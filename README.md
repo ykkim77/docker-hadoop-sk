@@ -7,7 +7,7 @@
 ## Hadoop Docker 다운 받기
 
 ```
-git clone https://github.com/CUKykkim/hadoop-docker
+git clone https://github.com/ykkim77/docker-hadoop-sk.git
 ```
 
 ```
@@ -23,7 +23,7 @@ Resolving deltas: 100% (3/3), done.
 그 폴더 안으로 들어간다. 
 
 ```
-cd hadoop-docker
+cd hadoop-docker-sk
 ```
 
 ## Mareduce 프로그래밍

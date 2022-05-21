@@ -3,7 +3,7 @@ version: "3"
 services:
   namenode:
     image: ykkim77/namenode
-    container_name: namenode
+    container_name: namenode:sk
     restart: always
     ports:
       - 9870:9870
